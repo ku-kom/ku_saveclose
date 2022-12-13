@@ -1,0 +1,20 @@
+{
+    "name": "university-of-copenhagen/ku-saveclose",
+    "type": "typo3-cms-extension",
+    "description": "Adds a \"Save and close\" button to all content elements.",
+    "homepage": "https://www.ku.dk/",
+    "license": ["GPL-2.0-or-later"],
+    "keywords": ["TYPO3 CMS"],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "UniversityOfCopenhagen\\KuSaveclose\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "ku_saveclose"
+        }
+    }
+}

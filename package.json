@@ -1,0 +1,13 @@
+{
+    "name": "ku_saveclose",
+    "version": "1.0.0",
+    "description": "Sitepackage for the project \"KU Save close button\" ",
+    "keywords": [
+        "TYPO3",
+        "Bootstrap",
+        "PHP",
+        "JavaScript"
+    ],
+    "author": "Nanna Ellegaard",
+    "license": "ISC"
+}
